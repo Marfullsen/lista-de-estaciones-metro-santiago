@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Listado de las estaciones del metro de Santiago de Chile
+# Listado de las estaciones del metro
 
 [![Python3](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 
