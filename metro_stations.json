@@ -1,0 +1,230 @@
+{
+  "0": {
+    "color": "",
+    "estaciones": [
+
+    ],
+    "combinaciones": [
+      
+    ]
+  },
+  "1": {
+    "color": "red",
+    "estaciones": [
+      "San Pablo", 
+      "Neptuno", 
+      "Pajaritos", 
+      "Las Rejas", 
+      "Ecuador", 
+      "San Alberto Hurtado", 
+      "Universidad de Santiago", 
+      "Estación Central", 
+      "Unión Latinoamericana", 
+      "República", 
+      "Los Héroes", 
+      "La Moneda", 
+      "Universidad de Chile", 
+      "Santa Lucía", 
+      "Universidad Católica", 
+      "Baquedano", 
+      "Salvador", 
+      "Manuel Montt", 
+      "Pedro de Valdivia", 
+      "Los Leones", 
+      "Tobalaba", 
+      "El Golf", 
+      "Alcántara", 
+      "Escuela Militar", 
+      "Manquehue", 
+      "Hernando de Magallanes", 
+      "Los Dominicos"
+    ],
+    "combinaciones": [
+      "San Pablo",
+      "Los Héroes",
+      "Universidad de Chile",
+      "Baquedano",
+      "Los Leones",
+      "Tobalaba"
+    ]
+  },
+  "2": {
+    "color": "yellow",
+    "estaciones": [
+      "La Cisterna", 
+      "El Parrón", 
+      "Lo Ovalle", 
+      "Ciudad del Niño", 
+      "Departamental", 
+      "Lo Vial", 
+      "San Miguel", 
+      "El Llano", 
+      "Franklin", 
+      "Rondizzoni", 
+      "Parque O'Higgins", 
+      "Toesca", 
+      "Los Héroes", 
+      "Santa Ana", 
+      "Cal y Canto", 
+      "Patronato", 
+      "Cerro Blanco", 
+      "Cementerios", 
+      "Einstein", 
+      "Dorsal", 
+      "Zapadores",
+      "Vespucio Norte"
+    ],
+    "combinaciones": [
+      "Puente Cal y Canto",
+      "Santa Ana",
+      "Los Héroes",
+      "Franklin",
+      "La Cistarna"  
+    ]
+  },
+  "3": {
+    "color": "brown",
+    "estaciones": [
+      "Los Libertadores",
+      "Cardenal Caro",
+      "Vivaceta",
+      "Conchalí",
+      "Plaza Chacabuco",
+      "Hospitales",
+      "Puente Cal y Canto",
+      "Plaza de Armas",
+      "Universidad de Chile",
+      "Parque Almagro",
+      "Matta",
+      "Irarrázaval",
+      "Monseñor Eyzaguirre",
+      "Ñuñoa",
+      "Chile España",
+      "Villa Frei",
+      "Plaza Egaña",
+      "Fernando Castillo Velasco"
+    ],
+    "combinaciones": [
+      "Puente Cal y Canto",
+      "Plaza de Armas",
+      "Universidad de Chile",
+      "Irarrázaval",
+      "Ñuñoa",
+      "Plaza Egaña"
+    ]
+  },
+  "4": {
+    "color": "blue",
+    "estaciones": [
+      "Tobalaba", 
+      "Cristobal Colón", 
+      "Francisco Bilbao", 
+      "Príncipe de Gales", 
+      "Simón Bolivar", 
+      "Plaza Egaña", 
+      "Los Orientales", 
+      "Grecia", 
+      "Los Presidentes", 
+      "Quilín", 
+      "Las Torres", 
+      "Macul", 
+      "Vicuña Mackenna", 
+      "Vicente Valdés", 
+      "Rojas Magallanes", 
+      "Trinidad", 
+      "San José de la Estrella", 
+      "Los Quillayes", 
+      "Elisa Correa", 
+      "Hospital Sótero del Río", 
+      "Protectora de la Infanc", 
+      "Las Mercedes", 
+      "Plaza Puente Alto"
+    ],
+    "combinaciones": [
+      "Tobalaba",
+      "Plaza Egaña",
+      "Vicuña Mackenna",
+      "Vicente Valdés"
+    ]
+  },
+  "4A": {
+    "color": "skyblue",
+    "estaciones": [
+      "Vicuña Mackenna", 
+      "Santa Julia", 
+      "La Granja", 
+      "Santa Rosa", 
+      "San Ramón", 
+      "La Cisterna"
+    ],
+    "combinaciones": [
+      "La Cistarna",
+      "Vicuña Mackenna"
+    ]
+  },
+  "5": {
+    "color": "green",
+    "estaciones": [
+      "Plaza Maipú", 
+      "Santiago Bueras", 
+      "Del Sol", 
+      "Monte Tabor", 
+      "Las Parcelas", 
+      "Laguna Sur", 
+      "Barrancas", 
+      "Pudahuel", 
+      "San Pablo", 
+      "Lo Prado", 
+      "Blanqueado", 
+      "Gruta de Lourdes", 
+      "Quinta Normal", 
+      "Cumming", 
+      "Santa Ana", 
+      "Plaza de Armas", 
+      "Bellas Artes", 
+      "Baquedano", 
+      "Parque Bustamante", 
+      "Santa Isabel", 
+      "Irarrázaval", 
+      "Ñuble", 
+      "Rodrigo de Araya", 
+      "Carlos Valdovinos", 
+      "Camino Agrícola", 
+      "San Joaquín", 
+      "Pedrero", 
+      "Mirador", 
+      "Bellavista de La Florida", 
+      "Vicente Valdés"
+    ],
+    "combinaciones": [
+      "San Pablo",
+      "Santa Ana",
+      "Plaza de Armas",
+      "Baquedano",
+      "Irarrázaval",
+      "Ñuble",
+      "Vicente Valdés"
+    ]
+  },
+  "6": {
+    "color": "purple",
+    "estaciones": [
+      "Cerrillos",
+      "Lo Valledor",
+      "Presidente Pedro Aguirre Cerda",
+      "Franklin",
+      "Bío Bío",
+      "Ñuble",
+      "Estadio Nacional",
+      "Ñuñoa",
+      "Inés de Suárez",
+      "Los Leones"
+    ],
+    "combinaciones": [
+      "Franklin",
+      "Ñuble",
+      "Ñuñoa",
+      "Los Leones"
+    ]
+  }
+}
