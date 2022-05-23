@@ -14,17 +14,25 @@
   Listado de las estaciones de la red del metro de Santiago de Chile
 </p>
 
-## ¿Qué fin tiene este listado?
-El fin del listado es poder tener indexadas todos los nombres de las estaciones de todos los tramos (líneas) para ser usado en aplicaciones futuras.
+## ¿Qué es este listado?
+El listado presentado es un indexado de todos los nombres de las estaciones de todos los tramos (líneas) del metro para ser usado con fines informáticos (crear aplicaciones, obtener los nombres, etc).
+
+## ¿Es posible visualizar el contenido del archivo en formato JSON?
+Si, los datos pueden ser visualizados ejecutando el archivo **show_stations.py**.
+
+<p align="center">
+  <a href="./show_stations.py" rel="noopener">
+  <img src="./docs/img/python-output-subway-line-4A.png" alt="show_stations.py"></a>
+</p>
 
 ## ¿Cuándo se actualizó?
 Actualizado en mayo del año 2022.
 
-## ¿Qué archivo es y contiene?
-El archivo **metro_stations.json** contiene un listado con todos los nombres de las estaciones del metro de Santiago de Chile indexados en formato JSON.
+## ¿Qué contiene el archivo JSON?
+El archivo **metro_stations.json** contiene el listado con todos los nombres de las estaciones del metro de Santiago de Chile indexados en formato JSON.
 
 ## ¿Qué patrón sigue el listado?
-El listado viene organizado por líneas (tramos), siendo la **clave** su número respectivo, y el **valor** es **un objeto** con el color de la línea, un arreglo con las estaciones y un arreglo con las combinaciones disponibles.
+El listado viene organizado por líneas (tramos), siendo la **clave** su número respectivo, y el **valor** es **un objeto** con el color de la línea en formato _string_, un arreglo con las estaciones y un arreglo con las combinaciones disponibles.
 
 ### Patrón
 ```js
@@ -56,14 +64,6 @@ El listado viene organizado por líneas (tramos), siendo la **clave** su número
     ...
 }
 ```
-
-## ¿Es posible visualizar el contenido del archivo en formato JSON?
-Si, los datos pueden ser visualizados ejecutando el archivo **show_stations.py**.
-
-<p align="center">
-  <a href="./show_stations.py" rel="noopener">
-  <img src="./docs/img/python-output-subway-line-4A.png" alt="show_stations.py"></a>
-</p>
 
 ## Mapa de la red del metro de Santiago de Chile
 
