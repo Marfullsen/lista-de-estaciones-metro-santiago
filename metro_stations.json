@@ -42,6 +42,10 @@
   "2": {
     "color": "yellow",
     "estaciones": [
+      "Hospital El Pino",
+      "Copa Lo Martínez",
+      "Observatorio",
+      "El Bosque",
       "La Cisterna", 
       "El Parrón", 
       "Lo Ovalle", 
@@ -76,6 +80,9 @@
   "3": {
     "color": "brown",
     "estaciones": [
+      "Plaza Quilicura",
+      "Lo Cruzat",
+      "Ferrocarril",
       "Los Libertadores",
       "Cardenal Caro",
       "Vivaceta",
