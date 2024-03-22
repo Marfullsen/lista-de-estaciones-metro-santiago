@@ -26,7 +26,8 @@ Si, los datos pueden ser visualizados ejecutando el archivo **show_stations.py**
 </p>
 
 ## ¿Cuándo se actualizó?
-Actualizado en mayo del año 2022.
+Actualizado en marzo del año 2024.
+Contiene las nuevas estaciones de la línea 2 (línea amarilla) y línea 3 (línea marrón/café).
 
 ## ¿Qué contiene el archivo JSON?
 El archivo **metro_stations.json** contiene el listado con todos los nombres de las estaciones del metro de Santiago de Chile indexados en formato JSON.
